@@ -1,4 +1,4 @@
-_*Assumption* AWS CLI is configured and have got the required credentials in ~/.aws/credentials file._
+_*Assumption:* AWS CLI is configured and have got the required credentials in ~/.aws/credentials file._
 
 ### First Timers:
 * Install terraform
